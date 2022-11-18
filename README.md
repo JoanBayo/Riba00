@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riba</h1>
+<h1 align="center">Hi 👋, I'm</h1>
 <h3 align="center">Student at IES Ebre (Tortosa)</h3>
 
 <br>
